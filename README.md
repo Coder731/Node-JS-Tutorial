@@ -1,2 +1,2 @@
 # Node-JS-Tutorial
-- [Node JS Tutorial for Beginners #1 - Introduction](https://www.youtube.com/watch?v=w-7RQ46RgxU)
+- [Node.js Crash Course Tutorial #1 - Introduction & Setup](youtube.com/watch?v=zb3Qk8SG5Ms&list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
